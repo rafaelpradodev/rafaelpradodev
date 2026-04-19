@@ -1,27 +1,25 @@
-# 👋 Welcome to My GitHub!
+# 👋 Hello, I'm Rafael
 
-Hi! I'm Rafael, an ADS student.
+ADS student | Software Development Enthusiast
 
-## 💻 Skills
+## 💻 About Me
+I'm currently studying Analysis and Systems Development (ADS) and focusing on improving my programming skills through practice and projects.
+
+## 🧠 Skills & Interests
 - Python 🐍
 - Programming logic
-- Basic web development
-- Basic networking
+- Problem solving
+- Basic software development concepts
 
-## 🎯 Focus
-- Improve Python skills  
-- Build small projects  
-- Practice programming logic  
+I'm constantly learning and building small projects to strengthen my understanding of programming.
 
-## 📚 This repo
-Coding exercises, Python scripts and small projects for learning.
+## 🎯 Goals
+- Improve my Python skills
+- Develop practical projects
+- Build a strong programming foundation
 
-## 🎮 Fun fact
-I like gaming and programming — both help me improve logic and creativity.
+## 🎮 Hobbies
+Gaming 🎮 and programming are my main interests. I enjoy how both help me improve creativity and logical thinking.
 
 ## 📫 Contact
 - Email: rafa.dasprado@gmail.com
-
----
-
-✍️ Rafael Prado
