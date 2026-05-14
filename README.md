@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27773859/README.md)
+
 # Hi, I'm Rafael Prado 👋
 
 Cybersecurity student based in São Paulo, Brazil. I have a technical background in Electronics and hands-on experience with Python, automation, and IoT security. Currently building tools focused on networking and security.
