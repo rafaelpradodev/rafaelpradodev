@@ -43,6 +43,7 @@ Security-focused Python scripts: port scanner, IP checker, log analyzer, log fil
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Prado-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelprado-dev/)
+[![Email](https://img.shields.io/badge/Email-rafaelprado.sec%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rafaelprado.sec@gmail.com)
 
 ---
 
